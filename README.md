@@ -5,10 +5,10 @@ gesture.
 
 The current gestures are:
 
-  F = Facebook
-  L = Flickr
-  T = Twitter
-  W = Wikipedia
+* F = Facebook
+* L = Flickr
+* T = Twitter
+* W = Wikipedia
 
 You can see the images for these letters at the jquery Fancy Gestures web site:
 http://anantgarg.com/2009/05/21/jquery-fancy-gestures/

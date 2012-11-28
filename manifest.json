@@ -1,6 +1,6 @@
 {
   "name": "Mouse gesture shortcuts",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Allows you to quickly open tabs on sites like Facebook, Flickr, Twitter, Wikipedia, etc., using just a mouse gesture.",
   "update_url": "https://fluiddb.fluidinfo.com/about/mouse-gesture-shortcuts/fluidinfo.com/chrome-update.xml",
   "manifest_version": 2,
